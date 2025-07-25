@@ -9,9 +9,9 @@ body{
     font-size: 1.2rem;
     line-height: 1.65;
     color: #393d41;
-    max-width: 1300px;
-    margin: 0 auto;
+    
 }
+
 
 /* reusable classes */
 .default-padding{
